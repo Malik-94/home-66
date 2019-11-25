@@ -1,0 +1,10 @@
+string1 = document.getElementById('string-3');
+string2 = document.getElementById('string-5');
+string3 = document.getElementById('string-2');
+string4 = document.getElementById('string-4');
+string5 = document.getElementById('string-1');
+console.log(string1.innerText);
+console.log(string2.innerText);
+console.log(string3.innerText);
+console.log(string4.innerText);
+console.log(string5.innerText);
